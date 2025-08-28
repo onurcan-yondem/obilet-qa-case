@@ -10,7 +10,7 @@ Tools                 |       Versions
 Java                  |         17 
 TestNG                |         7.8.0
 Selenium              |         4.35.0 
-Selenium              |         4.35.0 
+Allure                |         2.29.1 
 
 
 ## Setup & Run
